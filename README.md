@@ -1,4 +1,2 @@
 # Menhera-Bot
-Lol bot using U.gg data
-
-[U.gg](https://u.gg/)
+Lol bot using [U.gg](https://u.gg/) data
